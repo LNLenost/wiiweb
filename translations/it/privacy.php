@@ -1,5 +1,5 @@
 <?php
-$title = "Privacy Policy";
+$title = "Politica sulla Privacy";
 include($_SERVER['DOCUMENT_ROOT'].'/elements/head.php'); ?>
 
 <style>
